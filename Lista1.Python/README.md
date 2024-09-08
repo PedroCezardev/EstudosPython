@@ -4,8 +4,8 @@
 
 ```js
 Este é um repositório dedicado a postar exercícios de lógicas de programação com Python.
-As dificuldades dos exercício são variadas, estão organizados por pastas, sendo as primeiras listas
-com exercicios mais simples e as próximas aumentando a dificuldade.
+As dificuldades dos exercício são variadas, estão organizados por pastas, sendo as primeiras 
+listas com exercicios mais simples e as próximas aumentando a dificuldade.
 
  * Os exercícios envolvem assuntos como:
    - Algoritmos;
